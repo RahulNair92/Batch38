@@ -1,1 +1,1 @@
-print hello Humans
+print hello Human!
