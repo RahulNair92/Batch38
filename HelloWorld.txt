@@ -1,1 +1,1 @@
-print hello mistake
+print hello mistakes!
